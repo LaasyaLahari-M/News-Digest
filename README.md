@@ -1,6 +1,7 @@
 # 📰 NewsHub — Personalized AI-Powered News Dashboard
 
-NewsHub is a full-stack web app that delivers personalized news summaries using AI. Users can define their preferences and receive a curated, concise, and sentiment-tagged news feed.
+NewsHub is a full-stack web app that delivers personalized news summaries using AI. Users can define their preferences and receive a curated, concise, and 
+sentiment-tagged news feed.
 
 ---
 
